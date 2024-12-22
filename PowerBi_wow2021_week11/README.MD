@@ -91,12 +91,5 @@ Nasıl Kullanılır?
 	2.	Ribbon Chart ve Bump Chart’ı inceleyerek zaman içindeki sıralamaları ve satış trendlerini keşfedin.
 	3.	Kendi ihtiyaçlarınıza göre görselleştirmeleri düzenleyin veya genişletin.
 
-Önizleme
-Teşekkürler
-
-Bu çözüm, Workout Wednesday girişiminden ve Power BI becerilerini geliştirmek için tasarlanmış harika challenge’lardan esinlenmiştir. Challenge’ı tasarladığı için David Eldersveld’e özel teşekkürler.
-
-
-
 
 
