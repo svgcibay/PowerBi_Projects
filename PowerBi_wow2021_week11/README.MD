@@ -1,4 +1,4 @@
-<img width="1429" alt="wow 2021 week 11 -picture" src="https://github.com/user-attachments/assets/9e2c580c-1bd7-4a83-9fbb-ebcef353a43e" />
+![WhatsApp Image 2024-12-21 at 23 52 39](https://github.com/user-attachments/assets/3e67b1ac-4375-4ce3-8102-259658f196d1)
 
 
 
